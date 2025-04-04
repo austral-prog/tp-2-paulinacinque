@@ -16,3 +16,5 @@ def change():
     centavos= vuelto-pesos
     centavos_entero=int(centavos*100)
     print(centavos_entero)
+
+change() 
